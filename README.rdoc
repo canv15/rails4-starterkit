@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Frails4-starterkit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Frails4-starterkit?ref=badge_shield)
+
 = Rails 4.1 Starter Kit
 
 Bootstrap 3 / Foundation 5 + CoffeeScript + Sass + Devise + everything else you need to get into production, fast.
@@ -353,3 +355,7 @@ available in other environments, set the ALLOW_EMAIL_PREVIEW='1'.
 * Make sure rspecs follow best practices: http://betterspecs.org/
 * Run should_clean -d spec/
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Frails4-starterkit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Frails4-starterkit?ref=badge_large)
